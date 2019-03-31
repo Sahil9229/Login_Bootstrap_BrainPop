@@ -10,9 +10,7 @@ Free responsive login form template made with the Bootstrap framework, very simi
 <li>Font Awesome icons</li>
 </ul>
 
-<h2>Demo</h2>
 
-See a <a href="http://azmind.com/demo/bootstrap-login-form-github/" target="_blank">live preview here</a>.
 
 <h2>How To Use It</h2>
 
