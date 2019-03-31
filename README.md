@@ -35,8 +35,3 @@ The images are in the "img" folder (assets/img).
 <li><a href="http://fortawesome.github.io/Font-Awesome/" target="_blank">Font Awesome icons</a></li>
 </ul>
 
-<h2>License</h2>
-
-Use this login form as you like. If you use it and want to mention this page in your project, it'd be awesome! If not, that's ok too.
-
-Happy coding!
